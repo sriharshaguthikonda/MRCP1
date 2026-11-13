@@ -41,13 +41,13 @@ For book citations, distinguish **PDF page number** from **printed book page num
 
 ## Planned workspace
 
-The following directories are **proposed**, not yet created:
+The directory map below is the **planned target layout**. The `notes/` and `progress/` paths have begun to be populated; other folders remain planned and must not be assumed to exist.
 
 ```text
 MRCP1/
 ├── README.md                  # Purpose, method, and working rules
 ├── roadmap/                   # Topic list and exam priorities
-├── notes/                     # Original, sourced topic summaries
+├── notes/                     # Original, sourced topic summaries (started)
 ├── questions/                 # Original practice items and reasoning
 ├── errors/                    # Wrong-answer and uncertainty log
 ├── reviews/                   # Spaced recall prompts and review dates
@@ -70,6 +70,10 @@ Next review: +1d / +3d / +7d / +21d
 ```
 
 **Progress measures:** performance by specialty, accuracy on first attempt, repeat-error rate, time per question, and timed mixed-set results. A high score on repeated questions does not by itself prove readiness.
+
+## Study notes already available
+
+- [**UV–visible absorption, conjugation and phototoxicity — molecular blueprint**](notes/foundations/uv-visible-absorption-conjugation-and-phototoxicity.md) — p-orbital alignment, π/π* electronic transitions, why extended conjugation can shift absorption into UVA, structural prediction checklist, and why photoactivation is not the same as phototoxicity. Uses amiodarone as an applied example (Cardiology, textbook PDF p. 47 / printed p. 21). Includes original self-test and research links.
 
 ## Starting point
 
